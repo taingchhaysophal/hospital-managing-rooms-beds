@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
-import '../lib/domain/enums/patient_status.dart';
-import '../lib/domain/entities/patient.dart';
+import '../lib/domain/models/patient_status.dart';
+import '../lib/domain/models/patient.dart';
 
 void main() {
   group('Patient Class Standalone Tests', () {

@@ -1,5 +1,5 @@
-import '../enums/patient_status.dart';
-import '../enums/room_type.dart';
+import 'patient_status.dart';
+import 'room_type.dart';
 
 class Patient {
   // Basic Information

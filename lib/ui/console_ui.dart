@@ -1,6 +1,6 @@
 import 'dart:io';
-import '../domain/enums/patient_status.dart';
-import '../domain/entities/patient.dart';
+import '../domain/models/patient_status.dart';
+import '../domain/models/patient.dart';
 
 class HospitalConsoleUI {
   List<Patient> patients = [];
