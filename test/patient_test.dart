@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../lib/domain/models/patient_status.dart';
+import '../lib/domain/models/.dart';
 import '../lib/domain/models/patient.dart';
 
 void main() {
