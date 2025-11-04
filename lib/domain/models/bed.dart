@@ -4,7 +4,7 @@ import 'patient.dart';
 class Bed {
   final String bedId;
   BedStatus status;
-  Patient? patient; 
+  Patient? patient;
 
   Bed(this.bedId, {this.status = BedStatus.available});
 
