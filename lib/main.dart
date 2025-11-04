@@ -1,6 +1,6 @@
 import 'ui/console_ui.dart';
 
 void main() {
-  final hospitalUI = HospitalConsoleUI();
-  hospitalUI.run();
+  HospitalConsoleUI hospitalUi = HospitalConsoleUI();
+  hospitalUi.run();
 }
